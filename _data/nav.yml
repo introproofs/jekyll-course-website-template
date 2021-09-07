@@ -13,11 +13,11 @@ items:
 
 - url: /assignments/
   name: Assignments
-  icon_class: fas fa-user-graduate
+  icon_class: fa fa-pencil-square-o
 
-- url: /project/
-  name: Project
-  icon_class: fas fa-user-graduate
+- url: /resources/
+  name: Resources
+  icon_class: fas fa-file-code
 
 - url: /materials/
   name: Materials
