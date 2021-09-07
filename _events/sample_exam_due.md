@@ -1,6 +1,6 @@
 ---
 type: exam
-date: 
+date: 2021-10-20T0:0:00
 description: 'Midterm'
 hide_from_announcments: true
 ---
