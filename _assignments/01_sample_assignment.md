@@ -1,5 +1,5 @@
 ---
-type: homework
+type: assignment
 date: 2021-09-01
 title: 'Homework 1'
 pdf: /static_files/homeworks/hw1.pdf
