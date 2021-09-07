@@ -10,5 +10,9 @@
     [<a href="{{ include.event.url | prepend: site.baseurl}}">{{ include.event.title }}</a>]
     {% if include.event.solutions %}
     [<a href="{{ include.event.solutions | prepend: site.baseurl}}">Solutions</a>]
+    {% if include.event.tex_code %}
+    [<a href="{{ include.event.tex_code | prepend: site.baseurl}}">LaTeX Code</a>]
+    {% if include.event.lean_code %}
+    [<a href="{{ include.event.tex_code | prepend: site.baseurl}}">Lean Code</a>]
     {% endif %}
 </div>
