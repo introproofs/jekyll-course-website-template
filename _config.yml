@@ -6,6 +6,7 @@ course_semester: "Fall 2021"
 baseurl: "/jhu301-f21" # the subpath of your site, e.g. /blog/
 url: "https://introproofs.github.io" # the base hostname & protocol for your site
 
+
 schoolname: "Johns Hopkins University"
 schoolurl: "https://www.jhu.edu/"
 twitter_username: username 
@@ -16,7 +17,7 @@ address: |
     The United States
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
-# google_analytics: UA-XXXXXXXX-X
+# google_analytics: 
 
 ### Do not change the followings unless you know what you are doing ###
 
@@ -38,7 +39,7 @@ collections:
         output: true
     lectures:
         output: true
-    assignments:
+    homeworks:
         output: true
     announcements:
         output: false
@@ -47,6 +48,6 @@ collections:
 defaults:
   - scope:
       path: ""
-      type: "assignments"
+      type: "homeworks"
     values:
-      layout: "assignment"
+      layout: "homework"

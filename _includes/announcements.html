@@ -1,5 +1,5 @@
 {% assign all_events = site.events | concat: site.lectures %}
-{% assign all_events = all_events | concat: site.assignments %}
+{% assign all_events = all_events | concat: site.homeworks %}
 
 {% assign events_to_show = "" | split: "" %}
 {% for e in all_events %}
@@ -19,10 +19,10 @@
     <li class="no-p-margin">
         {% if n.type %}
             {% if n.type == 'lecture' %}
-                New Lecture is up: {{ n.title }}
+                New lecture is up: {{ n.title }}
                 {% include lecture_links.html lecture=n %}
-            {% elsif n.type == 'assignment' %}
-                New Assignment released: [<a href="{{ n.url | prepend: site.baseurl }}">{{ n.title }}</a>]
+            {% elsif n.type == 'homework' %}
+                New homework released: [<a href="{{ n.url | prepend: site.baseurl }}">{{ n.title }}</a>]
             {% else%}
                 {{ n.description }}
             {% endif %}

@@ -11,14 +11,15 @@ items:
   name: Lectures
   icon_class: fas fa-book-reader
 
-- url: /assignments/
-  name: Assignments
-  icon_class: fas fa-pencil-square-o
-
-- url: /resources/
-  name: Resources
-  icon_class: fas fa-file-code
+- url: /homeworks/
+  name: Homework
+  icon_class: fa fa-pencil-square-o
 
 - url: /materials/
-  name: Materials
+  name: Reading Materials
   icon_class: fas fa-book
+
+
+- url: /resources/
+  name: Other Resources
+  icon_class: fas fa-file-code

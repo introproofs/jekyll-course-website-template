@@ -1,19 +1,13 @@
-instructors:
-  - name: Albus Dumbledore
+instructor:
+  - name: Sina Hazratpour
     profile_pic: /_images/pp/dumbledore.jpg
-    webpage: https://en.wikipedia.org/wiki/Albus_Dumbledore
-  - name: Minerva McGonagall
-    profile_pic: /_images/pp/mcgonagall.jpg
+    webpage: https://sinhp.github.io/
+    email: sinahazratpour@gmail.com
 
-teaching_assistants:
-  - name: Harry Potter
+
+teaching_assistant:
+  - name: Junyan Zhang
     profile_pic: /_images/pp/potter.jpg
-    webpage: https://en.wikipedia.org/wiki/Harry_Potter_(character)
+    webpage: https://www.zhangjy9610.me/index.html
 
-  - name: Hermione Granger
-    profile_pic: /_images/pp/granger.jpg
-    webpage: https://en.wikipedia.org/wiki/Hermione_Granger
 
-  - name: Ron Weasley
-    profile_pic: /_images/pp/weasley.jpg
-    webpage: https://en.wikipedia.org/wiki/Ron_Weasley

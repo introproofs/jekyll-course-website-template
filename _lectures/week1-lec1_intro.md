@@ -9,4 +9,4 @@ links:
       name: slides
 ---
 **Suggested Readings:**
-- Chapter 0 of the textbook
+Chapter 0 of the textbook
