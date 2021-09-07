@@ -1,10 +1,7 @@
 ---
 type: exam
-date: 2018-12-02T8:0:0+3:30
+date: 2021-09-02T8:0:0+3:30
 description: 'Midterm'
 hide_from_announcments: true
 ---
-**Topics:**
-1. Topic 1
-2. Topic 2
-3. Topic 3
+There will be a midterm exam worth ten percent of your final grade. The exam is based on the material of the phase I. 
