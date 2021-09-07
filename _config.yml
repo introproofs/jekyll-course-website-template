@@ -1,5 +1,5 @@
 # Site settings
-course_name: History of Magic
+course_name: Introduction To Proofs
 course_description: "This course is an introduction to mathematical proofs. Proofs are performed on abstract structures such as finite and infinite sets, functions, and metric spaces. You will be introduced to methods of writing proofs which are rigorous, readable, and elegant. You will practice using cases, contradiction, and induction. Mathematical communication, both written and spoken, is emphasized throughout the course."
 course_semester: "Fall 2021"
 
