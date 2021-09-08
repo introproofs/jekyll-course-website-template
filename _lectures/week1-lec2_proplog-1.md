@@ -10,3 +10,5 @@ links:
 ---
 **Suggested Readings:**
 Section 1.1. of the textbook
+
+Extra exercises: [PDF](/static_files/presentations/week1-ex.pdf)
