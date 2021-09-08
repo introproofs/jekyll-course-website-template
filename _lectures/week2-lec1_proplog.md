@@ -11,3 +11,5 @@ links:
 **Suggested Readings:**
 Section 1.1. of the textbook 
 Appendix D of the textbook 
+
+Extra exercises: [PDF](/static_files/ex/week2-ex.pdf)
