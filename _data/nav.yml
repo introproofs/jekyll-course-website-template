@@ -11,9 +11,6 @@ items:
   name: Lectures
   icon_class: fas fa-book-reader
 
-- url: /homeworks/
-  name: Homework
-  icon_class: fa fa-pencil-square-o
 
 - url: /materials/
   name: Reading Materials
