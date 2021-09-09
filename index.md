@@ -12,7 +12,7 @@ Credits: 4.00
 **Instructor**
 
 - Sina Hazratpour
-- sinahazratpour@gmail.com
+- sina@jhu.edu
 - Krieger 405
 - Office Hours: Wednesdays 3:00pm-4:00pm (_By appointment only_)
 
