@@ -7,6 +7,8 @@ thumbnail: /static_files/presentations/week2-lec1_proplog.PNG
 links: 
     - url: /static_files/presentations/week2-lec1_proplog.pdf
       name: slides
+    - url: /static_files/presentations/week1-lec2_proplog_handout.pdf   
+    - name: handout
 ---
 **Suggested Readings:**
 Section 1.1. of the textbook 
