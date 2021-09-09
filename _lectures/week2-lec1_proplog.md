@@ -13,8 +13,8 @@ Section 1.1. of the textbook
 
 Appendix D of the textbook 
 
-Extra exercises: [PDF]({{ site.baseurl }}/static_files/ex/week2-ex.pdf)
+Extra exercises: [PDF]({{ site.baseurl }}/static_files/ex/week2-ex.pdf){:target="_blank"})
 
 <!--
 [PDF](https://raw.githubusercontent.com/introproofs/jhu301-f21/master/static_files/ex/week2-ex.pdf){:target="_blank"}
->
+-->
