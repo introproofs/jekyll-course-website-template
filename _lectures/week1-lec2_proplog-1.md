@@ -11,4 +11,4 @@ links:
 **Suggested Readings:**
 Section 1.1. of the textbook
 
-Extra exercises: [PDF](/static_files/ex/week1-ex.pdf)
+Extra exercises: [PDF]({{ site.baseurl }}/static_files/ex/week1-ex.pdf)
