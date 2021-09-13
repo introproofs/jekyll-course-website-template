@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2021-09-13
+date: 2021-09-13T1:00:00
 title: Propositions with Lean
 tldr: "We use the proof assistant Lean as propositional logic."
 thumbnail: /static_files/presentations/lean.png 
