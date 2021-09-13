@@ -2,7 +2,8 @@
 
 -- Lean installation guide: https://leanprover-community.github.io/get_started.html
 
--- alternatively, use the web editor: https://leanprover-community.github.io/lean-web-editor/#
+-- alternatively, use the web editor: https://leanprover-community.github.io/lean-web-editor/# 
+--- you can copy paste all the code in below to the web editor. It takes a few seconds for the web editor to load. 
 
 
 -- try prop, what error do you get?
@@ -106,6 +107,7 @@ and.intro (and.right h) (and.left h)
 
 
 
+
 -- the expression “show A, from P” means the same thing as P alone, but it signals the intention that P is a proof of A. When Lean checks this expression, it confirms that P really is a proof of A, before parsing the expression surrounding it.
 
 variables A B : Prop
@@ -128,6 +130,21 @@ show B ∧ A, from and.intro
 -- underscore
 example : A ∧ B → B ∧ A :=
 assume h, and.intro (and.right h) _
+
+-- try to fix the above!
+
+
+
+-- Here is another example we did in week1 lecture 2, albeit in the natural deduction style. 
+
+variables A B C : Prop
+
+variable h1 : A → B
+variable h2 : B → C
+
+example : A → C :=
+assume h : A,
+show C, from h2 (h1 h)
 
 
 

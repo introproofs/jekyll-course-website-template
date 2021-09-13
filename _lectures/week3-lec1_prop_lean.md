@@ -1,0 +1,13 @@
+---
+type: lecture
+date: 2021-09-13
+title: Propositions with Lean
+tldr: " We use the proof assistant Lean as propositional logic."
+thumbnail: /static_files/presentations/lean.png 
+links: 
+    - url: /_lean/prop.lean
+      name: Lean code
+---
+**Extras exercises** 
+
+Write your proofs of [week 2 extra exercises]({{ site.baseurl }}/static_files/ex/week2-ex.pdf){:target="_blank"} in Lean. 
