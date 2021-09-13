@@ -5,7 +5,7 @@ title: Propositions with Lean
 tldr: "We use the proof assistant Lean as propositional logic."
 thumbnail: /static_files/presentations/lean.png 
 links: 
-    - url: static_files/presentations/week3-lec1_prop.lean
+    - url: /static_files/presentations/week3-lec1_prop.lean
       name: Lean code
 ---
 **Extras** 
