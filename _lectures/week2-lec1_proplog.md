@@ -7,9 +7,16 @@ thumbnail: /static_files/presentations/week2-lec1_proplog.PNG
 links: 
     - url: /static_files/presentations/week2-lec1_proplog.pdf
       name: slides
+    - url: /static_files/presentations/week2-lec1_proplog_handout.pdf   
+      name: handout
 ---
 **Suggested Readings:**
 Section 1.1. of the textbook 
+
 Appendix D of the textbook 
 
-Extra exercises: [PDF](https://raw.githubusercontent.com/introproofs/jhu301-f21/master/static_files/ex/week1-ex.pdf)
+Extra exercises: [PDF]({{ site.baseurl }}/static_files/ex/week2-ex.pdf){:target="_blank"}
+
+<!--
+[PDF](https://raw.githubusercontent.com/introproofs/jhu301-f21/master/static_files/ex/week2-ex.pdf){:target="_blank"}
+-->
