@@ -9,5 +9,9 @@ links:
       name: Lean code
 ---
 **Extras exercises** 
+- Some popular science articles about computer formalization of mathematics you might enjoy: 
+   
+     
 
-Write your proofs of [week 2 extra exercises]({{ site.baseurl }}/static_files/ex/week2-ex.pdf){:target="_blank"} in Lean. 
+
+- Write your proofs of [week 2 extra exercises]({{ site.baseurl }}/static_files/ex/week2-ex.pdf){:target="_blank"} in Lean. 
