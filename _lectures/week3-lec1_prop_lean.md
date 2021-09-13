@@ -20,4 +20,7 @@ Open the attached lean code file with your favourite text editor. I recommend Su
 
 	[Proof Assistant Makes Jump to Big-League Math -- Quanta Magazine](https://www.quantamagazine.org/lean-computer-program-confirms-peter-scholze-proof-20210728/)
 
-- Write your proofs of [week 2 extra exercises]({{ site.baseurl }}/static_files/ex/week2-ex.pdf){:target="_blank"} in Lean. 
+- If you are interested in learning more about Lean, your are welcome to join the Lean Prover community online on [Zulip chat](https://leanprover.zulipchat.com/login/). 
+
+- Write your proofs of [week 2 extra exercises]({{ site.baseurl }}/static_files/ex/week2-ex.pdf){:target="_blank"} 
+in Lean. 
