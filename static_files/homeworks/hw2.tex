@@ -1,0 +1,111 @@
+\documentclass[12pt,english]{amsart}
+\usepackage{amsmath,amssymb,amsthm}
+\usepackage{geometry}
+\geometry{verbose,tmargin=.8in,bmargin=1in,lmargin=1in,rmargin=1in}
+\usepackage[all]{xy}
+\usepackage{bussproofs}
+
+\theoremstyle{plain}
+\newtheorem{theorem}{Theorem}[section]
+\theoremstyle{definition}
+\newtheorem{definition}[theorem]{Definition}
+\theoremstyle{plain}
+\newtheorem{lemma}[theorem]{Lemma}
+\theoremstyle{plain}
+\newtheorem{example}[theorem]{Example}
+\theoremstyle{remark}
+\newtheorem{proposition}[theorem]{Proposition}
+
+\newcounter{problems}
+\theoremstyle{definition}
+\newtheorem{problem}[problems]{Problem}
+
+\newtheorem*{pbs}{Problems}
+
+\theoremstyle{remark}
+\newtheorem*{solution}{Solution}
+
+
+\renewcommand{\implies}{\Rightarrow}
+\newcommand{\biimplies}{\ensuremath{\Leftrightarrow}}
+
+% Introduction
+\title{Math 301: Introduction to Proofs\\
+Homework 2}
+
+\author[]{Sina Hazratpour}
+
+
+
+\begin{document}
+\maketitle
+
+
+\begin{pbs}\leavevmode 
+
+\textsection 1.E (Chapter $1$ Exercises) \, $ \| $ \,  1.8, 1.10, 1.18 
+\end{pbs}
+
+
+
+\begin{problem}
+	Find logical formulae that represent each of the following statements.
+	\begin{enumerate}
+	    \item If someone is alone, they are not with someone else.
+	    \item No mortal man can slay every dragon.
+	    \item There is no greatest odd integer.
+	    \item There is an integer that is divisible by every integer.
+		\item If an integer has a rational square root, then that root is an integer.
+	    \item There is no smallest positive real number.
+	\end{enumerate}
+\end{problem}
+
+
+
+
+
+
+\begin{problem}
+	Find the statements in plain English, involving as few variables as possible, that are represented by each of the following logical formulae.
+	\begin{enumerate}
+		\item $\forall d\in\mathbb{N},[(\exists q\in\mathbb{Z}, n=qd) \Rightarrow (d=1 \vee d=n)]$.
+		
+% 		\begin{solution}
+			
+% 		\end{solution}	 
+		
+		\item $\forall a\in\mathbb{R}, [a>0\Rightarrow (\exists b\in\mathbb{R},(b>0\wedge a<b))]$.
+		
+% 		\begin{solution}
+			
+% 		\end{solution}	 
+		
+		\item $\exists a\in \mathbb{Z}, [(\exists q\in \mathbb{Z}, 2q=a) \wedge (\exists q\in \mathbb{Z}, 2q+1=a)]$.
+		
+% 		\begin{solution}
+			
+% 		\end{solution}	 
+		
+	\end{enumerate}
+\end{problem}
+
+
+
+
+\begin{problem} Prove the assertions (3)-(6) of Problem 1 above using the structure of the logical formulae you obtained. 
+Can you identify the proof techniques and rules of inference that you used in your proofs?
+\end{problem}
+
+% 	\begin{solution}
+		
+% 	\end{solution}	
+
+
+\begin{problem}
+Give a natural deduction proof of
+\[ \forall x \; (A(x) \implies B(x)) \implies (\forall x \; A(x) \implies \forall x \; B(x)). \]
+\end{problem}
+
+
+
+\end{document}
