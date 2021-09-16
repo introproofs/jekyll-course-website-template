@@ -73,16 +73,16 @@ During the first phase of the course, there will be a problem set assigned due r
 
 You are allowed and encouraged to discuss the problem sets with other students. Proofs are best enjoyed with others! However, each  student must attempt the problems on their own before meeting with other students. You must write up your solutions to the problems on your own and in your own words, and must acknowledge your collaborators by name on your written assignments. Also, remember that if you cannot do the exercises, you will not do well on the exams. Copying from another student or any other source is prohibited. Use of online solution banks is prohibited and will be considered a violation of <a href="#ethics">the ethics code</a>.
 
-Furthermore, you are encouraged to consult with each other and even collaborate on all non-homework all Lean exercises, and  help each other debug. Any code the was written together must have a citation (in code comments) that indicates who developed the code. Any code excerpted from outside sources must have a citation to the source (in code comments).
+Furthermore, you are encouraged to consult with each other and even collaborate on all non-homework all Lean exercises, and  help each other debug. Any code that was jointly written must have a citation (idealy, at the beginnnig of your code, as a comment) which indicates who developed which part of the code. Any code excerpted from outside sources must have a citation to the source (in code comments).
 
 It is encouraged, but not required, that you use LaTeX for typesetting your homework assignments. LaTex is a powerful markup language for typing up mathematics and is used in many technical fields. Appendix D of our <a href="https://infinitedescent.xyz/">textbook</a> has a nice introduction to the basic features of LaTeX. I will make homework files available in LaTex format so you can start using it right away. If this is your first time using LaTeX, I recommend that you start by using an online editor (e.g.  <a href="https://www.overleaf.com/">Overleaf</a>). I included some useful links on the <a href="latex.html">LaTeX page</a>
 
 ### Exams 
 
-There will be a midterm exam worth ten percent of your final grade. The exam is based on the material of the phase I. 
+There will be a midterm exam worth ten percent of your final grade. The exam is based on the material of the phase I. Please consult the schedule page of this website for the exact time and location of the midterm exam. 
 
 ### Attendance 
-Since we will cover a lot of ground this semester and much of the material is cumulative, attendance in lectures is strongly encouraged. The class particiapation is particularly important in the second phase and it comprises of 10 percent of your final grade.  
+Since we will cover a lot of ground this semester and much of the material is cumulative, attendance in lectures is strongly encouraged. The class particiapation is particularly important in the second phase and it comprises of 5 percent of your final grade.  
 
 ## Grading Policy
 A numerical grade will be assigned based on the following formula:
