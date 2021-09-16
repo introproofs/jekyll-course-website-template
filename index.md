@@ -48,9 +48,12 @@ The first half of the semester will be taught in the _traditional lecture style_
 
 Roughly, mathematical proofs have two roles: firstly, to convince oneself and others of validity of mathematical statements , and secondly, to convey mathematical ideas and methods.
 
-In the first few lectures, we will focus on the first role. Starting with propositional logic, we study a formal system of precise rules governing proofs. It will quickly become clear that being explicitly aware of logical operations will not only help convince ourselves of validity of a statement, it will also guide us in search of new proofs and in solving problems.
+In the first few lectures, we will focus on the first role. Starting with propositional logic, we study a formal system of precise rules governing proofs. It will quickly become clear that being explicitly aware of logical operations will not only help convince ourselves of validity of a statement, it will also guide us in search of new proofs and in solving problems. We will then move on to the topics of first order logic to extend our capability of formally encoding more complicated kinds of reasoning in symolic logic.
 
 We will also spend some time learning to read and write mathematical proofs in the style common in mathematical community. We shall cover the basics of logic, sets, functions,  equivalence relations, and partially order sets which are essential in all fields of mathematics. Therefore, the content of this course will be essential for your next level maths courses.
+
+Periodically, after each two lectures, there will be a third lecture where we explore the topics of the previous two lectures in a “proof relevant” style by interacting with the computer proof assistant [Lean](https://leanprover-community.github.io/index.html). The Lean codes of these lectures are posted on the Schedule page, so you can fix some of the proof errors (mostly by design) and holes in the arguments with the assistance of Lean.
+
 
 <!--
 In the first phase, the _weekly workflow_ is as follows: Each week there will be two lectures. In the first lecture we will cover some of the topics of the textbook. In the second lecture we will explore these topics in a “proof relevant” style by interacting  computer proof assistant [Lean](https://leanprover-community.github.io/index.html).
