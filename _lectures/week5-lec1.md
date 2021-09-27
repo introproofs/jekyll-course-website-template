@@ -8,3 +8,5 @@ links:
     - url: /static_files/presentations/week5-lec1-sets.pdf
       name: slides
 ---
+**Suggested Readings:**
+Chapter 2 of the textbook 
