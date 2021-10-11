@@ -3,7 +3,7 @@ type: lecture
 date: 2021-09-27T1:00:00
 title: Sets
 tldr: "We "
-thumbnail: /static_files/presentations/week5-lec1_sets.png 
+thumbnail: /static_files/presentations/Georg-Cantor.jpg
 links: 
     - url: /static_files/presentations/week5-lec1-sets.pdf
       name: slides
