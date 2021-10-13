@@ -7,6 +7,8 @@ thumbnail: /static_files/presentations/fun-comp.png
 links: 
     - url: /static_files/presentations/week7-lec2-functions.pdf
       name: slides
+    - url: /static_files/presentations/week7-lec2-functions-handout.pdf
+      name: handout
 ---
 **Suggested Readings:**
 Chapters 3 and 5 of the textbook 
