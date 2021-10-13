@@ -1,9 +1,9 @@
 ---
 type: lecture
 date: 2021-10-13T1:00:00
-title: Sets
+title: Functions
 tldr: "All about functions."
-thumbnail: /static_files/presentations/powerset-poset.png
+thumbnail: /static_files/presentations/fun-comp.png
 links: 
     - url: /static_files/presentations/week7-lec2-functions.pdf
       name: slides
