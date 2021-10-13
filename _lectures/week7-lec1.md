@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2021-10-11T1:00:00
-title: Sets
+title: Relations
 tldr: "We introduce the notions of ordered sets, partially ordered sets, and equivalence relations with tons of examples."
 thumbnail: /static_files/presentations/powerset-poset.png
 links: 
