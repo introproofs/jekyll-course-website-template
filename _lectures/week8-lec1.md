@@ -15,5 +15,4 @@ Chapters 3 and 5 of the textbook
 
 **Extras** 
 
- - Barry Mazur, When is one thing equal to some other thing? 
-https://people.math.harvard.edu/~mazur/preprints/when_is_one.pdf
+ - Barry Mazur, [When is one thing equal to some other thing?](https://people.math.harvard.edu/~mazur/preprints/when_is_one.pdf)
