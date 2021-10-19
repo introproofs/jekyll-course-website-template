@@ -7,6 +7,8 @@ thumbnail: /static_files/presentations/Georg-Cantor.jpg
 links: 
     - url: /static_files/presentations/week5-lec1-sets.pdf
       name: slides
+    - url: /static_files/presentations/week5-lec1-sets-handout.pdf
+      name: handout
 ---
 **Suggested Readings:**
 Chapter 2 of the textbook 
