@@ -6,7 +6,9 @@ tldr: "We learn about recursion. We use recursion to define addition(+) and we p
 thumbnail: /static_files/presentations/fib-recursion.jpeg
 links: 
     - url: /static_files/presentations/week9-lec2_recursion.pdf
-      name: notes
+      name: slides
+    - url: /static_files/presentations/week9-lec2_recursion-handout.pdf
+      name: handout
 ---
 **Suggested Readings:**
 Chapter 4 of the textbook 
