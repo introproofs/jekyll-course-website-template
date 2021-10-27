@@ -6,7 +6,7 @@ tldr: "We learn about natural numbers and the principles of induction and least 
 thumbnail: /static_files/presentations/domino.jpeg
 links: 
     - url: /static_files/presentations/week9-lec1_induction.pdf
-      name: slides
+      name: notes
 ---
 **Suggested Readings:**
 Chapter 4 of the textbook 
