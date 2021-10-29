@@ -3,7 +3,7 @@ type: lecture
 date: 2021-10-27T1:00:00
 title: Recursion
 tldr: "We learn about recursion. We use recursion to define addition(+) and we prove 1+1=2."
-thumbnail: /static_files/presentations/fib-recursion.png
+thumbnail: /static_files/presentations/fib-recursion.PNG
 links: 
     - url: /static_files/presentations/week9-lec2_recursion.pdf
       name: slides
