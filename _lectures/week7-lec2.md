@@ -5,7 +5,7 @@ title: Functions
 tldr: "All about functions."
 thumbnail: /static_files/presentations/fun-comp.png
 links: 
-    - url: /static_files/presentations/week7-lec2-functions.pdf
+    - url: /static_files/presentations/week7-lec2_functions.pdf
       name: slides
     - url: /static_files/presentations/week7-lec2-functions-handout.pdf
       name: handout
