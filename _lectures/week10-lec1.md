@@ -1,17 +1,14 @@
 ---
 type: lecture
-date: 2021-10-27T1:00:00
-title: Recursion
-tldr: "We learn about recursion. We use recursion to define addition(+) and we prove 1+1=2."
-thumbnail: /static_files/presentations/fib-recursion.PNG
+date: 2021-11-01T1:00:00
+title: Rational numbers
+tldr: "We construct rational numebrs from integers."
+thumbnail: 
 links: 
-    - url: /static_files/presentations/week9-lec2_recursion.pdf
+    - url: /static_files/presentations/week10-lec1_rationals.pdf
       name: slides
-    - url: /static_files/presentations/week9-lec2_recursion-handout.pdf
+    - url: /static_files/presentations/week10-lec1_rationals-handout.pdf
       name: handout
 ---
 **Suggested Readings:**
-Chapter 4 of the textbook 
-
-**Cool stuff to do with recursion:**
-[Recursion 'Super Power' (in Python) - Computerphile](https://www.youtube.com/watch?v=8lhxIOAfDss)
+Section B.2 of the textbook
