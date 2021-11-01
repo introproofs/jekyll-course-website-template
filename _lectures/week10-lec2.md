@@ -1,17 +1,14 @@
 ---
 type: lecture
-date: 2021-10-27T1:00:00
-title: Recursion
-tldr: "We learn about recursion. We use recursion to define addition(+) and we prove 1+1=2."
-thumbnail: /static_files/presentations/fib-recursion.PNG
+date: 2021-11-03T1:00:00
+title: Real numbers
+tldr: "We construct (Dedekind) real numbers from rational numbers."
+thumbnail: 
 links: 
-    - url: /static_files/presentations/week9-lec2_recursion.pdf
+    - url: /static_files/presentations/week10-lec2_reals.pdf
       name: slides
-    - url: /static_files/presentations/week9-lec2_recursion-handout.pdf
+    - url: /static_files/presentations/week10-lec2_reals-handout.pdf
       name: handout
 ---
 **Suggested Readings:**
-Chapter 4 of the textbook 
 
-**Cool stuff to do with recursion:**
-[Recursion 'Super Power' (in Python) - Computerphile](https://www.youtube.com/watch?v=8lhxIOAfDss)
