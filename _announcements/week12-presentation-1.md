@@ -1,4 +1,4 @@
 ---
-date: 2021-11-15
+date: 2021-11-03
 ---
-Kay and Rodrigo will have a joint presentation on Monday Nov 17. They will tell us about sequences in metric spaces.   
+Adam and Nickholas will have a joint presentation on Monday Nov 15. They will introduce metric spaces.  
