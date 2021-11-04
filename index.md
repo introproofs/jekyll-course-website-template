@@ -130,7 +130,7 @@ If you are struggling with anxiety, stress, depression or other mental health re
 
 <div id="footer" class="row">
 			<div class="aligncenter">
-				<h3><font color="#68ACE5">&copy; 2021 Sina Hazratpour</font></h3>
+				<h3><font color="#68ACE5">&copy; 2021 <a href="https://sinhp.github.io/teaching/"> Sina Hazratpour</a></font></h3>
 			</div>
 </div>
 
