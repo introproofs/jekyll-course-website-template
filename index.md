@@ -125,12 +125,12 @@ To arrange for testing accommodation, remind the instructor and provide the lett
 If you are struggling with anxiety, stress, depression or other mental health related concerns, please consider visiting the JHU Counseling Center. If you are concerned about a friend, please encourage that person to seek out their services. The Counseling Center is located at 3003 North Charles Street in Suite S-200 and can be reached at 410-516-8278 and online at <a href="http://studentaffairs.jhu.edu/counselingcenter/">http://studentaffairs.jhu.edu/counselingcenter/</a>
 
 
-<br></br>
-<br></br>
+<br>
+<br>
 
 <div id="footer" class="row">
 			<div class="aligncenter">
-				<h3>&copy; 2021 Sina Hazratpour </h3>
+				<h3><font color="#68ACE5">&copy; 2021 Sina Hazratpour</font></h3>
 			</div>
 </div>
 
