@@ -507,3 +507,18 @@ a.tosu {
         border-bottom: 0 !important;
     }
 }
+
+
+/* Additional text classes */
+.slogan {color:#bbb; font-size:1.2em;}
+.alignleft {text-align:left;}
+.alignright {text-align:right;}
+.aligncenter {text-align:center;}
+.alignjustify {text-align:justify;}
+.nomargin {margin:0; padding:0;}
+.separator {height:100px; margin:0; padding:0; background: #0a0a0a url(images/insidebg2.jpg) bottom center no-repeat; border-bottom:1px dotted #1a1a1a;}
+.larger {font-size:1.2em;}
+.smaller {font-size:0.9em;}
+.spacer {margin:0 20px;}
+.clear {clear:both;}
+.hide {display:none;}
