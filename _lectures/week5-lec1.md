@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2021-09-27T1:00:00
-title: Sets
+title: Sets (part I)
 tldr: "We make the idea of collections and containment precise by introducing the notion of set."
 thumbnail: /static_files/presentations/Georg-Cantor.jpg
 links: 
