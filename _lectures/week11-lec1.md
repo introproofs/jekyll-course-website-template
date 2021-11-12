@@ -2,7 +2,7 @@
 type: lecture
 date: 2021-11-08T1:00:00
 title: Real numbers
-tldr: "More on real numbers"
+tldr: "We construct (Dedekind) real numbers from rational numbers."
 thumbnail: 
 links: 
     - url: /static_files/presentations/week11-lec1_reals_dedekind.pdf
