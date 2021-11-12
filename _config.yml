@@ -41,6 +41,8 @@ collections:
         output: true
     homeworks:
         output: true
+    syllabus:
+        output: true    
     announcements:
         output: false
 
