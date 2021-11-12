@@ -10,5 +10,5 @@ links:
     - url: /static_files/presentations/week5-lec1-sets-handout.pdf
       name: handout
 ---
-**Suggested Readings:**
-Chapter 2 of the textbook 
+* Suggested Readings:
++ Chapter 2 of the textbook 
