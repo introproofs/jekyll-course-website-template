@@ -65,14 +65,6 @@ For the first eight weeks, the format will be that of a traditional lecture cour
 <div class="lecture-container">
     <div class="content">
         <span style="font-weight: bold;">{{ lecture.title }}</span><br>
-        <strong>tl;dr:</strong> {{ lecture.tldr }}
-        <br/>
-        {% if lecture.content != '' %}
-        <br/>
-        <div class="markdown-content" style="margin-top: 3px;">
-        {{ lecture.content }}
-        </div>
-        {% endif %}
     </div>
 </div>
 </li>
