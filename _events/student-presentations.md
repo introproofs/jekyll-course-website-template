@@ -1,5 +1,5 @@
 ---
-type: exam
+type: presentation
 date: 2021-11-06T0:0:00
 description: 'Students Presentations (Flipped Classroom)'
 hide_from_announcments: false

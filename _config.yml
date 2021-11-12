@@ -51,5 +51,6 @@ defaults:
   - scope:
       path: ""
       type: "homeworks"
+      
     values:
       layout: "homework"

@@ -1,0 +1,11 @@
+<div class="col col-1" style="color:#002d74 ;font-weight: bold;" data-label="Event">Presentations</div>
+<div class="col col-1-2" style="color:#002d74; font-weight: bold" data-label="Date">
+    {{ event.date | date: site.dateformat }}
+    <br class="date-spliter"/>{{ event.date | date: "%A" }}
+</div>
+<div class="col col-2" style="color:#002d74; font-weight: bold" data-label="Description">
+    {{ include.event.description }}
+</div>
+<div class="col col-4 markdown-content" style="color:#002d74" data-label="Course Material">
+    {{ include.event.content}}
+</div>
