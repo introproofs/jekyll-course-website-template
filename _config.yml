@@ -50,7 +50,7 @@ collections:
 defaults:
   - scope:
       path: ""
-      type: "homeworks"
+      type: "homework"
       
     values:
       layout: "homework"

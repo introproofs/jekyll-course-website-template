@@ -32,7 +32,7 @@ Days/Times:
 
 - MW 1:30PM - 2:45PM
 - F 1:30PM - 2:20PM
-- 08-30-2021 to 12-06-2021
+- 01-24-2022 to 04-29-2022
 
 ## Prerequisites
 
