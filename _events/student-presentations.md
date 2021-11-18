@@ -18,9 +18,9 @@ hide_from_announcments: false
 + Based on [script 3](/jhu301-f21/static_files/presentations/script3.pdf)
 
 4. Sequences III
-+ A presentation by ? on `12/01/2021`
++ A presentation by Kay and Rodrigo on `12/01/2021`
 + Based on [script 4](/jhu301-f21/static_files/presentations/script4.pdf)
 
 5. Topology 
-+ A presentation by ? on `12/06/2021`
++ A presentation by Adam and Nickholas on `12/06/2021`
 + Based on [script 5](/jhu301-f21/static_files/presentations/script5.pdf)
