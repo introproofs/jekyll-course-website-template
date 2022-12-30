@@ -56,6 +56,7 @@ We will also spend some time learning to read and write mathematical proofs in t
 
 Periodically, there will be a lecture where we explore the topics of the previous lectures in a “proof relevant” style by interacting with the computer proof assistant [Lean](https://leanprover-community.github.io/index.html). The Lean codes of these lectures are posted on the course website, so you can fix some of the proof errors (mostly by design) and holes in the arguments with the assistance of Lean.
 
+<h4 id="before-midterm"> Before Midterm </h4>
 
 For the first eight weeks, the format will be that of a traditional lecture course. The following schedule of lectures is aspirational and subject to change.
 
